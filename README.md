@@ -218,6 +218,4 @@ Most repositories are documented in Spanish, with a short English summary at the
   <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
-
-<p align="center">Thanks for stopping by. Feel free to reach out if you want to talk about health data, bioinformatics or music 🎹</p>
+<p align="center">Thanks for stopping by. Feel free to reach out if you want to talk about health data, bioinformatics or music.</p>
