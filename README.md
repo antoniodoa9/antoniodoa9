@@ -7,10 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
-  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;
-  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <i>Connect with me</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=white" height="26" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white" height="26" alt="Gmail"/></a> &nbsp;
+  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" height="26" alt="Telegram"/></a> &nbsp;
+  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="26" alt="Instagram"/></a>
 </p>
 
 ---
