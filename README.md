@@ -1,32 +1,31 @@
-<h1 align="center">Hi, I'm Antonio Sánchez Doña 👋</h1>
-
 <p align="center">
-  <a href="https://github.com/antoniodoa9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C2566B&center=true&vCenter=true&width=640&height=45&lines=Biomedical+Engineering+%26+Bioinformatics+student;Clinical+data+and+machine+learning;RNA-seq+and+systems+biology;Pianist+since+the+age+of+8" alt="Biomedical Engineering and Bioinformatics student, clinical data and machine learning, RNA-seq and systems biology, pianist since the age of 8"/></a>
+  <img src="./assets/banner.png" alt="Antonio Sánchez Doña - Biomedical Engineering and Bioinformatics" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5e1f2c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/Gmail-5e1f2c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
-  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/Telegram-5e1f2c?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;
-  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-5e1f2c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/antoniodoa9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&height=42&lines=Health+Engineering+student+at+the+University+of+M%C3%A1laga;Clinical+data%2C+machine+learning+%26+reproducible+validation;RNA-seq%2C+systems+biology+%26+computational+pathology;Classical+pianist+since+the+age+of+8" alt="Health Engineering student at the University of Málaga, clinical data and machine learning, RNA-seq and systems biology, classical pianist since the age of 8"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
+  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/Telegram-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;
+  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
 <h3 align="center"><i>About me</i></h3>
 
-I'm a Biomedical Engineering and Bioinformatics student at the **University of Málaga**. I enjoy the problems where medicine, data and code meet: turning clinical data into models that a doctor could actually trust, and checking every result twice before believing it.
+I'm a Health Engineering student at the **University of Málaga**, combining the **Biomedical Engineering** and **Bioinformatics** tracks. I enjoy working at the intersection of medicine, data and software: turning clinical and biological data into models that are carefully validated and reproducible.
 
-Before engineering there was music. I spent twelve years at the conservatory, from the age of 8 to 20, and won the **Extraordinary Award in piano from the Junta de Andalucía**. Those years taught me the patience and discipline I now try to bring to every project.
+Before engineering, music took up most of my time. I studied classical piano at the conservatory from the age of 8 to 20, and the habit of daily practice and patience still shapes how I approach technical work today.
 
-<p align="center">
-  🎓 Health Engineering at UMA: <b>Biomedical Engineering</b> track completed, <b>Bioinformatics</b> track in progress<br>
-  📊 Average grade <b>8.81/10</b>, with <b>22 honours grades</b> (<i>matrícula de honor</i>) so far<br>
-  🔬 Final degree project: <b>predicting molecular alterations in lung cancer from H&E images</b> with pathology foundation models (in progress)<br>
-  🤝 Mentor for new students at the <b>ETSI Informática</b> since 2024<br>
-  📜 NVIDIA DLI certificate: <b>Fundamentals of Accelerated Computing with Modern CUDA C++</b><br>
-  🎹 Pianist: Professional Piano Degree, Extraordinary Award, <i>matrícula de honor</i> and Santa Cecilia award
-</p>
+- 🎓 **Degree**: Health Engineering at UMA (Biomedical Engineering track completed, Bioinformatics track in progress; 8.81/10 average, 22 honours grades so far).
+- 🔬 **Final degree project**: Predicting molecular alterations in lung cancer from H&E slides with pathology foundation models *(in progress)*.
+- 🤝 **Mentoring**: Peer mentor for first-year students at the **ETSI Informática** since 2024.
+- 📜 **Additional training**: NVIDIA DLI *Fundamentals of Accelerated Computing with Modern CUDA C++*.
+- 🎹 **Music**: Professional Piano Degree, Extraordinary Award from the Junta de Andalucía, *matrícula de honor* and Santa Cecilia award.
 
 ---
 
@@ -35,39 +34,59 @@ Before engineering there was music. I spent twelve years at the conservatory, fr
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/clasificacion-notas-oncologicas-pln"><img src="./assets/pln.png" alt="AUC from the baseline to the best model"/></a>
+      <a href="https://github.com/antoniodoa9/clasificacion-notas-oncologicas-pln"><img src="./assets/pln.png" alt="AUC from the baseline to the best model" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/clasificacion-notas-oncologicas-pln">Oncology notes classification</a></b><br>
-      NLP on real Spanish clinical notes to detect patients with several neoplasms. AUC from 0.733 to 0.827, checked with 30 seeds and nested cross-validation.</p>
+      NLP on real Spanish clinical notes to detect patients with several neoplasms, checked with 30 seeds and nested cross-validation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square" alt="Python"/>
+        <img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square" alt="NLP"/>
+        <img src="https://img.shields.io/badge/AUC-0.733%20to%200.827-1E3A8A?style=flat-square" alt="AUC 0.733 to 0.827"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/cancer-mama-respuesta-neoadyuvante"><img src="./assets/biocalc.png" alt="BioCalc app"/></a>
+      <a href="https://github.com/antoniodoa9/cancer-mama-respuesta-neoadyuvante"><img src="./assets/biocalc.png" alt="BioCalc app" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/cancer-mama-respuesta-neoadyuvante">Antibiotics and breast cancer response</a></b><br>
-      Data mining in R on a clinical cohort, ending in <a href="https://antonio-sanchez-uma.shinyapps.io/biocalc/">BioCalc</a>, a Shiny app that predicts the response to chemotherapy.</p>
+      Data mining in R on a clinical cohort, deployed as <a href="https://antonio-sanchez-uma.shinyapps.io/biocalc/">BioCalc</a>, a Shiny app that predicts response to neoadjuvant chemotherapy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/R-1E293B?style=flat-square" alt="R"/>
+        <img src="https://img.shields.io/badge/Shiny-1E293B?style=flat-square" alt="Shiny"/>
+        <a href="https://antonio-sanchez-uma.shinyapps.io/biocalc/"><img src="https://img.shields.io/badge/Live%20App-BioCalc-1D4ED8?style=flat-square" alt="Live App BioCalc"/></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/modelo-pkpd-propofol"><img src="./assets/pkpd.png" alt="BIS response of five patients"/></a>
+      <a href="https://github.com/antoniodoa9/modelo-pkpd-propofol"><img src="./assets/pkpd.png" alt="BIS response of five patients" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/modelo-pkpd-propofol">PK-PD model of propofol anaesthesia</a></b><br>
-      Three-compartment model in MATLAB and Simulink that simulates how deep each patient's anaesthesia goes.</p>
+      Three-compartment pharmacokinetic and pharmacodynamic model simulating anaesthesia depth across individual patients.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MATLAB-1E293B?style=flat-square" alt="MATLAB"/>
+        <img src="https://img.shields.io/badge/Simulink-1E293B?style=flat-square" alt="Simulink"/>
+        <img src="https://img.shields.io/badge/Model-3--Compartment-1E3A8A?style=flat-square" alt="3-Compartment Model"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/ChronoHealthDB"><img src="./assets/chronohealthdb.png" alt="ChronoHealthDB database diagram"/></a>
+      <a href="https://github.com/antoniodoa9/ChronoHealthDB"><img src="./assets/chronohealthdb.png" alt="ChronoHealthDB database diagram" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/ChronoHealthDB">ChronoHealthDB</a></b><br>
-      Health record database with privacy by design in MySQL, XML and MongoDB. Indexing made the patient history query 62 times faster.</p>
+      Health record database designed with privacy by design across relational, XML and NoSQL engines, benchmarked with indexing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL%20%7C%20XML-1E293B?style=flat-square" alt="MySQL and XML"/>
+        <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Query-62x%20faster-1E3A8A?style=flat-square" alt="Query 62x faster"/>
+      </p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>More projects (7)</b></summary>
 <br>
 
 - **[RNA-seq of *Arabidopsis*: Ler vs C24](https://github.com/antoniodoa9/arabidopsis-rnaseq-ler-c24)**: full workflow from raw reads to differential expression with Galaxy, kallisto and limma-voom ([reports](https://antoniodoa9.github.io/arabidopsis-rnaseq-ler-c24/)).
 - **[Dexamethasone functional analysis](https://github.com/antoniodoa9/dexametasona-analisis-funcional)**: ORA versus GSEA on MSigDB Hallmark gene sets.
 - **[Diabetes risk screening](https://github.com/antoniodoa9/diabetes-riesgo-ml)**: machine learning on the CDC BRFSS 2015 survey (ROC-AUC 0.83, recall 0.77).
 - **[RAG over clinical guidelines](https://github.com/antoniodoa9/pab-proyecto)**: local LLM that answers from a clinical guideline and cites its pages.
-- **[Aortic dissection network analysis](https://github.com/antoniodoa9/project_template)**: systems biology group project with STRING, igraph and Louvain (in progress).
+- **[Aortic dissection network analysis](https://github.com/antoniodoa9/project_template)**: systems biology group project with STRING, igraph and Louvain *(in progress)*.
 - **[MindVibe](https://github.com/antoniodoa9/mindvibe)**: EEG headset concept taken through the whole software engineering lifecycle, with a Spring Boot prototype and a [website](https://antoniodoa9.github.io/mindvibe/).
 - **[HealthCalc](https://github.com/antoniodoa9/healthcalc_ISAgrupo03-Antonio)**: health calculator in Java built with testing, BDD, design patterns and refactoring.
 
