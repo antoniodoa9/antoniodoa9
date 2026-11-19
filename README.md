@@ -33,12 +33,6 @@ Before engineering, music took up most of my time. I studied classical piano at 
 
 <br clear="both">
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="./assets/piano-collage.svg" width="85%" alt="Antonio playing the piano on stage in 2015 and years later playing Chopin's Scherzo No. 2"/></a><br>
-  <i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i><br>
-  <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
-</p>
-
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h2 align="center">Featured projects</h2>
@@ -189,6 +183,14 @@ Most repositories are documented in Spanish, with a short English summary at the
   <b>⚡ Low level and GPU</b><br>
   <img src="https://img.shields.io/badge/MIPS%20assembly-0F172A?style=flat-square" alt="MIPS assembly"/>
   <img src="https://img.shields.io/badge/CUDA%20C%2B%2B-0F172A?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA C++"/>
+</p>
+
+<h2 align="center">Beyond code</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="./assets/piano-collage.svg" width="60%" alt="Antonio playing the piano on stage in 2015 and years later playing Chopin's Scherzo No. 2"/></a><br>
+  <i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i><br>
+  <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
