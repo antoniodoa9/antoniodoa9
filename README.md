@@ -16,8 +16,6 @@
   <a href="https://antoniodoa9.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1E4FD8?style=plastic&logo=googlechrome&logoColor=white" width="118" alt="Portfolio website"/></a>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
-
 <h2 align="center">About me</h2>
 
 <img align="right" width="150" src="./assets/helix.svg" alt="Animated DNA double helix"/>
@@ -34,8 +32,6 @@ Before engineering, music took up most of my time. I studied classical piano at 
 - 🎹 **Music**: Professional Piano Degree, Extraordinary Award from the Junta de Andalucía, *matrícula de honor* and Santa Cecilia award.
 
 <br clear="both">
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h2 align="center">My portfolio</h2>
 
@@ -207,8 +203,6 @@ Most repositories are documented in Spanish, with a short English summary at the
   <a href="https://en.wikipedia.org/wiki/MIPS_architecture"><img src="https://img.shields.io/badge/MIPS%20assembly-0F172A?style=flat-square" alt="MIPS assembly"/></a>
   <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA%20C%2B%2B-0F172A?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA C++"/></a>
 </p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h2 align="center">Beyond code</h2>
 
