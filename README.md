@@ -40,7 +40,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/clasificacion-notas-oncologicas-pln"><img src="./assets/pln.png" alt="AUC from the baseline to the best model" width="100%"/></a>
+      <a href="https://github.com/antoniodoa9/clasificacion-notas-oncologicas-pln"><img src="./assets/card-pln.png" alt="AUC from the baseline to the best model" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/clasificacion-notas-oncologicas-pln">Oncology notes classification</a></b><br>
       NLP on real Spanish clinical notes to detect patients with several neoplasms, checked with 30 seeds and nested cross-validation.</p>
       <p>
@@ -50,7 +50,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/cancer-mama-respuesta-neoadyuvante"><img src="./assets/biocalc.png" alt="BioCalc app" width="100%"/></a>
+      <a href="https://github.com/antoniodoa9/cancer-mama-respuesta-neoadyuvante"><img src="./assets/card-biocalc.png" alt="BioCalc app" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/cancer-mama-respuesta-neoadyuvante">Antibiotics and breast cancer response</a></b><br>
       Data mining in R on a clinical cohort, deployed as <a href="https://antonio-sanchez-uma.shinyapps.io/biocalc/">BioCalc</a>, a Shiny app that predicts response to neoadjuvant chemotherapy.</p>
       <p>
@@ -62,7 +62,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/modelo-pkpd-propofol"><img src="./assets/pkpd.png" alt="BIS response of five patients" width="100%"/></a>
+      <a href="https://github.com/antoniodoa9/modelo-pkpd-propofol"><img src="./assets/card-pkpd.png" alt="BIS response of five patients" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/modelo-pkpd-propofol">PK-PD model of propofol anaesthesia</a></b><br>
       Three-compartment pharmacokinetic and pharmacodynamic model simulating anaesthesia depth across individual patients.</p>
       <p>
@@ -72,7 +72,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/ChronoHealthDB"><img src="./assets/chronohealthdb.png" alt="ChronoHealthDB database diagram" width="100%"/></a>
+      <a href="https://github.com/antoniodoa9/ChronoHealthDB"><img src="./assets/card-chronohealthdb.png" alt="ChronoHealthDB database diagram" width="100%"/></a>
       <p><b><a href="https://github.com/antoniodoa9/ChronoHealthDB">ChronoHealthDB</a></b><br>
       Health record database designed with privacy by design across relational, XML and NoSQL engines, benchmarked with indexing.</p>
       <p>
