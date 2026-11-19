@@ -34,7 +34,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
 <br clear="both">
 
 <p align="center">
-  <img src="./assets/piano.png" width="70%" alt="Antonio playing a grand piano on stage at the conservatory"/><br>
+  <img src="./assets/piano-collage.svg" width="85%" alt="Antonio playing the piano on stage in 2015 and years later playing Chopin's Scherzo No. 2"/><br>
   <i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i>
 </p>
 
