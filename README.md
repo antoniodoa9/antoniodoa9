@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Antonio Sánchez Doña 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/antoniodoa9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B2E3F&center=true&vCenter=true&width=640&height=45&lines=Biomedical+Engineering+%26+Bioinformatics+student;Clinical+data+and+machine+learning;RNA-seq+and+systems+biology;Pianist+since+the+age+of+8" alt="Biomedical Engineering and Bioinformatics student, clinical data and machine learning, RNA-seq and systems biology, pianist since the age of 8"/></a>
+  <a href="https://github.com/antoniodoa9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C2566B&center=true&vCenter=true&width=640&height=45&lines=Biomedical+Engineering+%26+Bioinformatics+student;Clinical+data+and+machine+learning;RNA-seq+and+systems+biology;Pianist+since+the+age+of+8" alt="Biomedical Engineering and Bioinformatics student, clinical data and machine learning, RNA-seq and systems biology, pianist since the age of 8"/></a>
 </p>
 
 <p align="center">
