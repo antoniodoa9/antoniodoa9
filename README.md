@@ -34,8 +34,9 @@ Before engineering, music took up most of my time. I studied classical piano at 
 <br clear="both">
 
 <p align="center">
-  <img src="./assets/piano-collage.svg" width="85%" alt="Antonio playing the piano on stage in 2015 and years later playing Chopin's Scherzo No. 2"/><br>
-  <i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i>
+  <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="./assets/piano-collage.svg" width="85%" alt="Antonio playing the piano on stage in 2015 and years later playing Chopin's Scherzo No. 2"/></a><br>
+  <i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i><br>
+  <a href="https://www.youtube.com/watch?v=xKA3S4K6r3M" target="_blank"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
