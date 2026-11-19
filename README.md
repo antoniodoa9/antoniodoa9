@@ -6,7 +6,7 @@
   <a href="https://github.com/antoniodoa9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&height=42&lines=Health+Engineering+student+at+the+University+of+M%C3%A1laga;Clinical+data%2C+machine+learning+%26+reproducible+validation;RNA-seq%2C+systems+biology+%26+computational+pathology;Classical+pianist+since+the+age+of+8" alt="Health Engineering student at the University of Málaga, clinical data and machine learning, RNA-seq and systems biology, classical pianist since the age of 8"/></a>
 </p>
 
-<h3 align="center"><i>Connect with me</i></h3>
+<h2 align="center">Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=white" width="107" alt="LinkedIn"/></a> &nbsp;
@@ -17,7 +17,7 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<h3 align="center"><i>About me</i></h3>
+<h2 align="center">About me</h2>
 
 <img align="right" width="150" src="./assets/helix.svg" alt="Animated DNA double helix"/>
 
@@ -35,12 +35,12 @@ Before engineering, music took up most of my time. I studied classical piano at 
 
 <p align="center">
   <img src="./assets/piano.png" width="70%" alt="Antonio playing a grand piano on stage at the conservatory"/><br>
-  <sub><i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i></sub>
+  <i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<h3 align="center"><i>Featured projects</i></h3>
+<h2 align="center">Featured projects</h2>
 
 <table>
   <tr>
@@ -91,7 +91,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
 
 <p align="center">
   <a href="https://antoniodoa9.github.io/mindvibe/"><img src="./assets/card-mindvibe-web.png" width="80%" alt="MindVibe project website"/></a><br>
-  <sub><b><a href="https://antoniodoa9.github.io/mindvibe/">MindVibe website</a></b>: an EEG headset concept that adapts music to your emotional state, with a working demo of the admin panel</sub>
+  <b><a href="https://antoniodoa9.github.io/mindvibe/">MindVibe website</a></b>: an EEG headset concept that adapts music to your emotional state, with a working demo of the admin panel
 </p>
 
 <details>
@@ -111,7 +111,7 @@ Most repositories are documented in Spanish, with a short English summary at the
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<h3 align="center"><i>Tools I've used during the degree</i></h3>
+<h2 align="center">Tools I've used during the degree</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,java,cs,cpp,matlab,sklearn,latex&perline=8" alt="Python, R, Java, C#, C++, MATLAB, scikit-learn, LaTeX"/><br>
@@ -192,4 +192,4 @@ Most repositories are documented in Spanish, with a short English summary at the
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<p align="center"><sub>Thanks for stopping by. Feel free to reach out if you want to talk about health data, bioinformatics or music 🎹</sub></p>
+<p align="center">Thanks for stopping by. Feel free to reach out if you want to talk about health data, bioinformatics or music 🎹</p>
