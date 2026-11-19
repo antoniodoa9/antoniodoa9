@@ -185,6 +185,8 @@ Most repositories are documented in Spanish, with a short English summary at the
   <img src="https://img.shields.io/badge/CUDA%20C%2B%2B-0F172A?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA C++"/>
 </p>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
 <h2 align="center">Beyond code</h2>
 
 <p align="center">
