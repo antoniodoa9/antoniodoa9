@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" width="123" alt="Instagram"/></a>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h3 align="center"><i>About me</i></h3>
 
@@ -33,7 +33,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
 
 <br clear="both">
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h3 align="center"><i>Featured projects</i></h3>
 
@@ -99,7 +99,7 @@ Before engineering, music took up most of my time. I studied classical piano at 
 Most repositories are documented in Spanish, with a short English summary at the top.
 </details>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h3 align="center"><i>Tools I've used during the degree</i></h3>
 
@@ -108,11 +108,78 @@ Most repositories are documented in Spanish, with a short English summary at the
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,spring,maven,docker,git,linux,vscode&perline=8" alt="MySQL, MongoDB, Spring, Maven, Docker, Git, Linux, VS Code"/>
 </p>
 
-| Area | Tools |
-|---|---|
-| Data science and AI | scikit-learn, pandas, spaCy, NLTK, LangChain, ChromaDB, Ollama, Jupyter, RStudio, Quarto, Shiny |
-| Bioinformatics | Galaxy, Bioconductor (edgeR, limma, clusterProfiler, STRINGdb), gseapy, rentrez, Sanger sequencing data, single-cell data (AnnData) |
-| Biomedical engineering | MATLAB and Simulink, Modelica, LTspice, KiCad (PCB design), mbed microcontrollers with Bluetooth Low Energy, AutoCAD, medical image processing (DICOM) |
-| Databases | Oracle SQL and PL/SQL, MySQL, SQL Server, MongoDB, XML and XQuery (eXist-db), HL7 |
-| Software engineering | Spring Boot, Maven, JUnit, Cucumber, C# and .NET, Visual Paradigm (UML), draw.io, GanttProject, Docker, Git |
-| Low level and GPU | MIPS assembly (WinMIPS64), CUDA C++ |
+<p align="center">
+  <b>🤖 Data science and AI</b><br>
+  <img src="https://img.shields.io/badge/scikit--learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-0F172A?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/spaCy-0F172A?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/NLTK-0F172A?style=flat-square" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/ChromaDB-0F172A?style=flat-square" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/RStudio-0F172A?style=flat-square&logo=rstudioide&logoColor=white" alt="RStudio"/>
+  <img src="https://img.shields.io/badge/Quarto-0F172A?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
+  <img src="https://img.shields.io/badge/Shiny-0F172A?style=flat-square&logo=rstudioide&logoColor=white" alt="Shiny"/>
+</p>
+
+<p align="center">
+  <b>🧬 Bioinformatics</b><br>
+  <img src="https://img.shields.io/badge/Galaxy-0F172A?style=flat-square" alt="Galaxy"/>
+  <img src="https://img.shields.io/badge/Bioconductor-0F172A?style=flat-square" alt="Bioconductor"/>
+  <img src="https://img.shields.io/badge/edgeR-0F172A?style=flat-square" alt="edgeR"/>
+  <img src="https://img.shields.io/badge/limma-0F172A?style=flat-square" alt="limma"/>
+  <img src="https://img.shields.io/badge/clusterProfiler-0F172A?style=flat-square" alt="clusterProfiler"/>
+  <img src="https://img.shields.io/badge/STRINGdb-0F172A?style=flat-square" alt="STRINGdb"/>
+  <img src="https://img.shields.io/badge/gseapy-0F172A?style=flat-square" alt="gseapy"/>
+  <img src="https://img.shields.io/badge/rentrez-0F172A?style=flat-square" alt="rentrez"/>
+  <img src="https://img.shields.io/badge/Sanger%20sequencing-0F172A?style=flat-square" alt="Sanger sequencing"/>
+  <img src="https://img.shields.io/badge/Single--cell%20%28AnnData%29-0F172A?style=flat-square" alt="Single-cell (AnnData)"/>
+</p>
+
+<p align="center">
+  <b>🫀 Biomedical engineering</b><br>
+  <img src="https://img.shields.io/badge/MATLAB-0F172A?style=flat-square" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-0F172A?style=flat-square" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/Modelica-0F172A?style=flat-square" alt="Modelica"/>
+  <img src="https://img.shields.io/badge/LTspice-0F172A?style=flat-square" alt="LTspice"/>
+  <img src="https://img.shields.io/badge/KiCad-0F172A?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"/>
+  <img src="https://img.shields.io/badge/mbed%20BLE-0F172A?style=flat-square&logo=arm&logoColor=white" alt="mbed BLE"/>
+  <img src="https://img.shields.io/badge/AutoCAD-0F172A?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/DICOM%20imaging-0F172A?style=flat-square" alt="DICOM imaging"/>
+</p>
+
+<p align="center">
+  <b>🗄️ Databases</b><br>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-0F172A?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img src="https://img.shields.io/badge/PL/SQL-0F172A?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/XQuery%20%28eXist--db%29-0F172A?style=flat-square" alt="XQuery (eXist-db)"/>
+  <img src="https://img.shields.io/badge/HL7-0F172A?style=flat-square" alt="HL7"/>
+</p>
+
+<p align="center">
+  <b>🛠️ Software engineering</b><br>
+  <img src="https://img.shields.io/badge/Spring%20Boot-0F172A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Maven-0F172A?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JUnit-0F172A?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Cucumber-0F172A?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/C%23%20/%20.NET-0F172A?style=flat-square&logo=dotnet&logoColor=white" alt="C# / .NET"/>
+  <img src="https://img.shields.io/badge/Visual%20Paradigm-0F172A?style=flat-square" alt="Visual Paradigm"/>
+  <img src="https://img.shields.io/badge/draw.io-0F172A?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="draw.io"/>
+  <img src="https://img.shields.io/badge/GanttProject-0F172A?style=flat-square" alt="GanttProject"/>
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<p align="center">
+  <b>⚡ Low level and GPU</b><br>
+  <img src="https://img.shields.io/badge/MIPS%20assembly-0F172A?style=flat-square" alt="MIPS assembly"/>
+  <img src="https://img.shields.io/badge/CUDA%20C%2B%2B-0F172A?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA C++"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+<p align="center"><sub>Thanks for stopping by. Feel free to reach out if you want to talk about health data, bioinformatics or music 🎹</sub></p>
