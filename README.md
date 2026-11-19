@@ -33,6 +33,11 @@ Before engineering, music took up most of my time. I studied classical piano at 
 
 <br clear="both">
 
+<p align="center">
+  <img src="./assets/piano.png" width="70%" alt="Antonio playing a grand piano on stage at the conservatory"/><br>
+  <sub><i>On stage at the conservatory. Twelve years of daily practice before I wrote my first line of code.</i></sub>
+</p>
+
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <h3 align="center"><i>Featured projects</i></h3>
@@ -83,6 +88,11 @@ Before engineering, music took up most of my time. I studied classical piano at 
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://antoniodoa9.github.io/mindvibe/"><img src="./assets/card-mindvibe-web.png" width="80%" alt="MindVibe project website"/></a><br>
+  <sub><b><a href="https://antoniodoa9.github.io/mindvibe/">MindVibe website</a></b>: an EEG headset concept that adapts music to your emotional state, with a working demo of the admin panel</sub>
+</p>
 
 <details>
 <summary><b>More projects (7)</b></summary>
