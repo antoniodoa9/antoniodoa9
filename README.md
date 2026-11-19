@@ -74,13 +74,14 @@ Before engineering, music took up most of my time. I studied classical piano at 
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/antoniodoa9/ChronoHealthDB"><img src="./assets/card-chronohealthdb.png" alt="ChronoHealthDB database diagram" width="100%"/></a>
-      <p><b><a href="https://github.com/antoniodoa9/ChronoHealthDB">ChronoHealthDB</a></b><br>
-      Health record database designed with privacy by design across relational, XML and NoSQL engines, benchmarked with indexing.</p>
+      <a href="https://github.com/antoniodoa9/arabidopsis-rnaseq-ler-c24"><img src="./assets/card-rnaseq.png" alt="Reports page of the Arabidopsis RNA-seq project" width="100%"/></a>
+      <p><b><a href="https://github.com/antoniodoa9/arabidopsis-rnaseq-ler-c24">RNA-seq of <i>Arabidopsis</i>: Ler vs C24</a></b><br>
+      Full RNA-seq workflow from raw reads to differential expression and functional interpretation, with all the <a href="https://antoniodoa9.github.io/arabidopsis-rnaseq-ler-c24/">reports online</a>.</p>
       <p>
-        <img src="https://img.shields.io/badge/MySQL%20%7C%20XML-1E293B?style=flat-square" alt="MySQL and XML"/>
-        <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Query-62x%20faster-1E3A8A?style=flat-square" alt="Query 62x faster"/>
+        <img src="https://img.shields.io/badge/Galaxy-1E293B?style=flat-square" alt="Galaxy"/>
+        <img src="https://img.shields.io/badge/kallisto-1E293B?style=flat-square" alt="kallisto"/>
+        <img src="https://img.shields.io/badge/limma--voom-1E293B?style=flat-square" alt="limma-voom"/>
+        <img src="https://img.shields.io/badge/DE%20genes-28-1E3A8A?style=flat-square" alt="28 differentially expressed genes"/>
       </p>
     </td>
   </tr>
@@ -95,11 +96,11 @@ Before engineering, music took up most of my time. I studied classical piano at 
 <summary><b>More projects (7)</b></summary>
 <br>
 
-- **[RNA-seq of *Arabidopsis*: Ler vs C24](https://github.com/antoniodoa9/arabidopsis-rnaseq-ler-c24)**: full workflow from raw reads to differential expression with Galaxy, kallisto and limma-voom ([reports](https://antoniodoa9.github.io/arabidopsis-rnaseq-ler-c24/)).
+- **[ChronoHealthDB](https://github.com/antoniodoa9/ChronoHealthDB)**: health record database with privacy by design in MySQL, XML and MongoDB. Indexing made the patient history query 62 times faster.
 - **[Dexamethasone functional analysis](https://github.com/antoniodoa9/dexametasona-analisis-funcional)**: ORA versus GSEA on MSigDB Hallmark gene sets.
 - **[Diabetes risk screening](https://github.com/antoniodoa9/diabetes-riesgo-ml)**: machine learning on the CDC BRFSS 2015 survey (ROC-AUC 0.83, recall 0.77).
 - **[RAG over clinical guidelines](https://github.com/antoniodoa9/pab-proyecto)**: local LLM that answers from a clinical guideline and cites its pages.
-- **[Aortic dissection network analysis](https://github.com/antoniodoa9/project_template)**: systems biology group project with STRING, igraph and Louvain *(in progress)*.
+- **[Modular organisation of the aortic dissection protein network](https://github.com/antoniodoa9/project_template)**: systems biology group project (HP:0002647) with STRING, igraph, Louvain modules and functional enrichment, fully reproducible with two scripts ([report](https://github.com/antoniodoa9/project_template/blob/main/report/report.pdf)) *(in progress)*.
 - **[MindVibe](https://github.com/antoniodoa9/mindvibe)**: EEG headset concept taken through the whole software engineering lifecycle, with a Spring Boot prototype and a [website](https://antoniodoa9.github.io/mindvibe/).
 - **[HealthCalc](https://github.com/antoniodoa9/healthcalc_ISAgrupo03-Antonio)**: health calculator in Java built with testing, BDD, design patterns and refactoring.
 
