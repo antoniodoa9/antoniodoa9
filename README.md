@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5e1f2c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5e1f2c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/Gmail-5e1f2c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
+  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/Telegram-5e1f2c?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;
+  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-5e1f2c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
