@@ -8,6 +8,7 @@ I'm a Biomedical Engineering and Bioinformatics undergraduate at the University 
 
 I like projects where the method can be checked: repeated cross-validation instead of a single split, simple baselines to compare against, and results that anyone can reproduce from the repository.
 
+- 📊 Current average grade 8.81/10, with 22 honours grades (*matrícula de honor*) so far.
 - 🔬 Working on my final degree project: predicting molecular alterations in lung adenocarcinoma from H&E histology images with pathology foundation models (2026-27, in progress).
 - 🎓 Mentor in the ETSI Informática mentoring plan at UMA since 2024, helping new students with maths and with the degree.
 - 📜 NVIDIA Deep Learning Institute certificate: *Fundamentals of Accelerated Computing with Modern CUDA C++*.
