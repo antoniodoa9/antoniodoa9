@@ -12,7 +12,8 @@
   <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=white" width="107" alt="LinkedIn"/></a> &nbsp;
   <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" width="90" alt="Gmail"/></a> &nbsp;
   <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" width="116" alt="Telegram"/></a> &nbsp;
-  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" width="123" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" width="123" alt="Instagram"/></a> &nbsp;
+  <a href="https://antoniodoa9.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1E4FD8?style=plastic&logo=googlechrome&logoColor=white" width="118" alt="Portfolio website"/></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
@@ -25,6 +26,7 @@ I'm a Health Engineering student at the **University of Málaga**, combining the
 
 Before engineering, music took up most of my time. I studied classical piano at the conservatory from the age of 8 to 20, and the habit of daily practice and patience still shapes how I approach technical work today.
 
+- 🏆 **First of my year** in Health Engineering at the University of Málaga.
 - 🎓 **Degree**: Health Engineering at UMA (Biomedical Engineering track completed, Bioinformatics track in progress; 8.81/10 average, 22 honours grades so far).
 - 🔬 **Final degree project**: Predicting molecular alterations in lung cancer from H&E slides with pathology foundation models *(in progress)*.
 - 🤝 **Mentoring**: Peer mentor for first-year students at the **ETSI Informática** since 2024.
