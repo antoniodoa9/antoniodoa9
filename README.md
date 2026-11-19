@@ -19,6 +19,8 @@
 
 <h3 align="center"><i>About me</i></h3>
 
+<img align="right" width="150" src="./assets/helix.svg" alt="Animated DNA double helix"/>
+
 I'm a Health Engineering student at the **University of Málaga**, combining the **Biomedical Engineering** and **Bioinformatics** tracks. I enjoy working at the intersection of medicine, data and software: turning clinical and biological data into models that are carefully validated and reproducible.
 
 Before engineering, music took up most of my time. I studied classical piano at the conservatory from the age of 8 to 20, and the habit of daily practice and patience still shapes how I approach technical work today.
@@ -28,6 +30,8 @@ Before engineering, music took up most of my time. I studied classical piano at 
 - 🤝 **Mentoring**: Peer mentor for first-year students at the **ETSI Informática** since 2024.
 - 📜 **Additional training**: NVIDIA DLI *Fundamentals of Accelerated Computing with Modern CUDA C++*.
 - 🎹 **Music**: Professional Piano Degree, Extraordinary Award from the Junta de Andalucía, *matrícula de honor* and Santa Cecilia award.
+
+<br clear="both">
 
 ---
 
