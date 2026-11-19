@@ -6,15 +6,13 @@
   <a href="https://github.com/antoniodoa9"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&height=42&lines=Health+Engineering+student+at+the+University+of+M%C3%A1laga;Clinical+data%2C+machine+learning+%26+reproducible+validation;RNA-seq%2C+systems+biology+%26+computational+pathology;Classical+pianist+since+the+age+of+8" alt="Health Engineering student at the University of Málaga, clinical data and machine learning, RNA-seq and systems biology, classical pianist since the age of 8"/></a>
 </p>
 
-<p align="center">
-  <i>Connect with me</i>
-</p>
+<h3 align="center"><i>Connect with me</i></h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=white" height="26" alt="LinkedIn"/></a> &nbsp;
-  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white" height="26" alt="Gmail"/></a> &nbsp;
-  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" height="26" alt="Telegram"/></a> &nbsp;
-  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="26" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=white" width="107" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:antoniosanchezdona9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" width="90" alt="Gmail"/></a> &nbsp;
+  <a href="https://t.me/antoniodoa9" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" width="116" alt="Telegram"/></a> &nbsp;
+  <a href="https://www.instagram.com/antoniodoa9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" width="123" alt="Instagram"/></a>
 </p>
 
 ---
