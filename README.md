@@ -37,16 +37,11 @@ Before engineering, music took up most of my time. I studied classical piano at 
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">My portfolio</h2>
+## [My Portfolio](https://antoniodoa9.github.io/)
 
-<p align="center">
-  <a href="https://antoniodoa9.github.io/" target="_blank"><img src="./assets/portfolio-preview.png" width="90%" alt="Preview of Antonio's portfolio website, antoniodoa9.github.io"/></a>
-</p>
-
-<p align="center">
-  All my projects, the story behind them and the music, in one place.<br><br>
-  <a href="https://antoniodoa9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-antoniodoa9.github.io-1E4FD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio at antoniodoa9.github.io"/></a>
-</p>
+<div align="center">
+  <a href="https://antoniodoa9.github.io/"><img src="./assets/portfolio-card.jpg" style="width: 75vw; height: auto;" alt="Antonio Sánchez Doña, portfolio at antoniodoa9.github.io"/></a>
+</div>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
